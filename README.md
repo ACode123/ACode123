@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew!
-- 👀 I’m interested in back end development.
-- 🌱 I’m currently learning C#, how to create WPF/XAML applications and SQL.
+- 👀 I’m interested in back end, front end and fullstack development.
+- 🌱 I’m currently learning AWS, JavaScript, HTML5 and CSS3 
 - 📫 reach me by email at andrew.wardrop@outlook.com
 
 <!---
