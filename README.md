@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew!
 - 👀 I’m interested in back end and fullstack development.
-- 🌱 I’m currently learning AWS, JavaScript, HTML5 and CSS3 
+- 🌱 I’m currently learning MVC, JavaScript, HTML5 and CSS3 
 - 📫 reach me by email at andrew.wardrop@outlook.com
 
 <!---
